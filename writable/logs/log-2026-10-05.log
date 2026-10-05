@@ -1,0 +1,110 @@
+CRITICAL - 2026-10-05 03:15:32 --> ErrorException: Undefined variable $region
+[Method: GET, Route: nivelesacademicos]
+in APPPATH\Views\nivelesacademicos.php on line 69.
+ 1 APPPATH\Views\nivelesacademicos.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $region', 'C:\\xampp\\htdocs\\proyectos2026\\app\\Views\\nivelesacademicos.php', 69)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\proyectos2026\\app\\Views\\nivelesacademicos.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('nivelesacademicos', [], true)
+ 5 APPPATH\Controllers\NivelesacademicosController.php(12): view('nivelesacademicos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\NivelesacademicosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NivelesacademicosController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-05 03:16:27 --> ErrorException: Undefined variable $region
+[Method: GET, Route: nivelesacademicos]
+in APPPATH\Views\nivelesacademicos.php on line 69.
+ 1 APPPATH\Views\nivelesacademicos.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $region', 'C:\\xampp\\htdocs\\proyectos2026\\app\\Views\\nivelesacademicos.php', 69)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\proyectos2026\\app\\Views\\nivelesacademicos.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('nivelesacademicos', [], true)
+ 5 APPPATH\Controllers\NivelesacademicosController.php(12): view('nivelesacademicos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\NivelesacademicosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NivelesacademicosController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-05 03:16:28 --> ErrorException: Undefined variable $region
+[Method: GET, Route: nivelesacademicos]
+in APPPATH\Views\nivelesacademicos.php on line 69.
+ 1 APPPATH\Views\nivelesacademicos.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $region', 'C:\\xampp\\htdocs\\proyectos2026\\app\\Views\\nivelesacademicos.php', 69)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\proyectos2026\\app\\Views\\nivelesacademicos.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('nivelesacademicos', [], true)
+ 5 APPPATH\Controllers\NivelesacademicosController.php(12): view('nivelesacademicos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\NivelesacademicosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NivelesacademicosController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-05 03:16:29 --> ErrorException: Undefined variable $region
+[Method: GET, Route: nivelesacademicos]
+in APPPATH\Views\nivelesacademicos.php on line 69.
+ 1 APPPATH\Views\nivelesacademicos.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $region', 'C:\\xampp\\htdocs\\proyectos2026\\app\\Views\\nivelesacademicos.php', 69)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\proyectos2026\\app\\Views\\nivelesacademicos.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('nivelesacademicos', [], true)
+ 5 APPPATH\Controllers\NivelesacademicosController.php(12): view('nivelesacademicos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\NivelesacademicosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NivelesacademicosController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-05 03:16:30 --> ErrorException: Undefined variable $region
+[Method: GET, Route: nivelesacademicos]
+in APPPATH\Views\nivelesacademicos.php on line 69.
+ 1 APPPATH\Views\nivelesacademicos.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $region', 'C:\\xampp\\htdocs\\proyectos2026\\app\\Views\\nivelesacademicos.php', 69)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\proyectos2026\\app\\Views\\nivelesacademicos.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('nivelesacademicos', [], true)
+ 5 APPPATH\Controllers\NivelesacademicosController.php(12): view('nivelesacademicos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\NivelesacademicosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NivelesacademicosController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-05 03:16:48 --> ErrorException: Undefined array key "cod__nivel_acad"
+[Method: GET, Route: nivelesacademicos]
+in APPPATH\Views\nivelesacademicos.php on line 69.
+ 1 APPPATH\Views\nivelesacademicos.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "cod__nivel_acad"', 'C:\\xampp\\htdocs\\proyectos2026\\app\\Views\\nivelesacademicos.php', 69)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\proyectos2026\\app\\Views\\nivelesacademicos.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('nivelesacademicos', [], true)
+ 5 APPPATH\Controllers\NivelesacademicosController.php(12): view('nivelesacademicos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\NivelesacademicosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NivelesacademicosController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-05 03:16:49 --> ErrorException: Undefined array key "cod__nivel_acad"
+[Method: GET, Route: nivelesacademicos]
+in APPPATH\Views\nivelesacademicos.php on line 69.
+ 1 APPPATH\Views\nivelesacademicos.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "cod__nivel_acad"', 'C:\\xampp\\htdocs\\proyectos2026\\app\\Views\\nivelesacademicos.php', 69)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\proyectos2026\\app\\Views\\nivelesacademicos.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('nivelesacademicos', [], true)
+ 5 APPPATH\Controllers\NivelesacademicosController.php(12): view('nivelesacademicos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\NivelesacademicosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NivelesacademicosController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-05 05:33:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "menu.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('menu.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('menu', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('menu')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

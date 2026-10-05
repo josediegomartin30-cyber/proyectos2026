@@ -1,0 +1,194 @@
+CRITICAL - 2026-09-24 03:54:30 --> CodeIgniter\Exceptions\InvalidArgumentException: Invalid primary key: '0' is not allowed.
+[Method: GET, Route: eliminar/0]
+in SYSTEMPATH\BaseModel.php on line 833.
+ 1 SYSTEMPATH\BaseModel.php(818): CodeIgniter\BaseModel->validateID('0', false)
+ 2 SYSTEMPATH\BaseModel.php(1191): CodeIgniter\BaseModel->validateID([...])
+ 3 APPPATH\Controllers\RegionesController.php(35): CodeIgniter\BaseModel->delete([...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\RegionesController->eliminar('0')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-24 03:54:46 --> CodeIgniter\Exceptions\InvalidArgumentException: Invalid primary key: '0' is not allowed.
+[Method: GET, Route: eliminar/0]
+in SYSTEMPATH\BaseModel.php on line 833.
+ 1 SYSTEMPATH\BaseModel.php(818): CodeIgniter\BaseModel->validateID('0', false)
+ 2 SYSTEMPATH\BaseModel.php(1191): CodeIgniter\BaseModel->validateID([...])
+ 3 APPPATH\Controllers\RegionesController.php(35): CodeIgniter\BaseModel->delete([...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\RegionesController->eliminar('0')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-24 03:58:40 --> CodeIgniter\Exceptions\InvalidArgumentException: Invalid primary key: '0' is not allowed.
+[Method: GET, Route: eliminar/0]
+in SYSTEMPATH\BaseModel.php on line 833.
+ 1 SYSTEMPATH\BaseModel.php(818): CodeIgniter\BaseModel->validateID('0', false)
+ 2 SYSTEMPATH\BaseModel.php(1191): CodeIgniter\BaseModel->validateID([...])
+ 3 APPPATH\Controllers\RegionesController.php(35): CodeIgniter\BaseModel->delete([...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\RegionesController->eliminar('0')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-24 04:11:48 --> CodeIgniter\Exceptions\InvalidArgumentException: Invalid primary key: '0' is not allowed.
+[Method: GET, Route: eliminar/0]
+in SYSTEMPATH\BaseModel.php on line 833.
+ 1 SYSTEMPATH\BaseModel.php(818): CodeIgniter\BaseModel->validateID('0', false)
+ 2 SYSTEMPATH\BaseModel.php(1191): CodeIgniter\BaseModel->validateID([...])
+ 3 APPPATH\Controllers\RegionesController.php(35): CodeIgniter\BaseModel->delete([...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\RegionesController->eliminar('0')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-24 04:11:59 --> CodeIgniter\Exceptions\InvalidArgumentException: Invalid primary key: '0' is not allowed.
+[Method: GET, Route: eliminar/0]
+in SYSTEMPATH\BaseModel.php on line 833.
+ 1 SYSTEMPATH\BaseModel.php(818): CodeIgniter\BaseModel->validateID('0', false)
+ 2 SYSTEMPATH\BaseModel.php(1191): CodeIgniter\BaseModel->validateID([...])
+ 3 APPPATH\Controllers\RegionesController.php(35): CodeIgniter\BaseModel->delete([...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\RegionesController->eliminar('0')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-24 04:15:11 --> CodeIgniter\Exceptions\InvalidArgumentException: Invalid primary key: '0' is not allowed.
+[Method: GET, Route: eliminar/0]
+in SYSTEMPATH\BaseModel.php on line 833.
+ 1 SYSTEMPATH\BaseModel.php(818): CodeIgniter\BaseModel->validateID('0', false)
+ 2 SYSTEMPATH\BaseModel.php(1191): CodeIgniter\BaseModel->validateID([...])
+ 3 APPPATH\Controllers\RegionesController.php(35): CodeIgniter\BaseModel->delete([...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\RegionesController->eliminar('0')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-24 04:16:49 --> CodeIgniter\Exceptions\InvalidArgumentException: Invalid primary key: '0' is not allowed.
+[Method: GET, Route: eliminar/0]
+in SYSTEMPATH\BaseModel.php on line 833.
+ 1 SYSTEMPATH\BaseModel.php(818): CodeIgniter\BaseModel->validateID('0', false)
+ 2 SYSTEMPATH\BaseModel.php(1191): CodeIgniter\BaseModel->validateID([...])
+ 3 APPPATH\Controllers\RegionesController.php(35): CodeIgniter\BaseModel->delete([...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\RegionesController->eliminar('0')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-24 04:21:48 --> CodeIgniter\Exceptions\InvalidArgumentException: Invalid primary key: '0' is not allowed.
+[Method: GET, Route: eliminar/0]
+in SYSTEMPATH\BaseModel.php on line 833.
+ 1 SYSTEMPATH\BaseModel.php(818): CodeIgniter\BaseModel->validateID('0', false)
+ 2 SYSTEMPATH\BaseModel.php(1191): CodeIgniter\BaseModel->validateID([...])
+ 3 APPPATH\Controllers\RegionesController.php(35): CodeIgniter\BaseModel->delete([...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\RegionesController->eliminar('0')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-24 04:25:08 --> CodeIgniter\Exceptions\InvalidArgumentException: Invalid primary key: '0' is not allowed.
+[Method: GET, Route: eliminar/0]
+in SYSTEMPATH\BaseModel.php on line 833.
+ 1 SYSTEMPATH\BaseModel.php(818): CodeIgniter\BaseModel->validateID('0', false)
+ 2 SYSTEMPATH\BaseModel.php(1191): CodeIgniter\BaseModel->validateID([...])
+ 3 APPPATH\Controllers\RegionesController.php(35): CodeIgniter\BaseModel->delete([...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\RegionesController->eliminar('0')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-24 04:27:03 --> CodeIgniter\Exceptions\InvalidArgumentException: Invalid primary key: '0' is not allowed.
+[Method: GET, Route: eliminar/0]
+in SYSTEMPATH\BaseModel.php on line 833.
+ 1 SYSTEMPATH\BaseModel.php(818): CodeIgniter\BaseModel->validateID('0', false)
+ 2 SYSTEMPATH\BaseModel.php(1191): CodeIgniter\BaseModel->validateID([...])
+ 3 APPPATH\Controllers\RegionesController.php(35): CodeIgniter\BaseModel->delete([...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\RegionesController->eliminar('0')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-24 04:27:03 --> CodeIgniter\Exceptions\InvalidArgumentException: Invalid primary key: '0' is not allowed.
+[Method: GET, Route: eliminar/0]
+in SYSTEMPATH\BaseModel.php on line 833.
+ 1 SYSTEMPATH\BaseModel.php(818): CodeIgniter\BaseModel->validateID('0', false)
+ 2 SYSTEMPATH\BaseModel.php(1191): CodeIgniter\BaseModel->validateID([...])
+ 3 APPPATH\Controllers\RegionesController.php(35): CodeIgniter\BaseModel->delete([...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\RegionesController->eliminar('0')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-24 04:27:04 --> CodeIgniter\Exceptions\InvalidArgumentException: Invalid primary key: '0' is not allowed.
+[Method: GET, Route: eliminar/0]
+in SYSTEMPATH\BaseModel.php on line 833.
+ 1 SYSTEMPATH\BaseModel.php(818): CodeIgniter\BaseModel->validateID('0', false)
+ 2 SYSTEMPATH\BaseModel.php(1191): CodeIgniter\BaseModel->validateID([...])
+ 3 APPPATH\Controllers\RegionesController.php(35): CodeIgniter\BaseModel->delete([...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\RegionesController->eliminar('0')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-24 04:27:49 --> CodeIgniter\Exceptions\InvalidArgumentException: Invalid primary key: '0' is not allowed.
+[Method: GET, Route: eliminar/0]
+in SYSTEMPATH\BaseModel.php on line 833.
+ 1 SYSTEMPATH\BaseModel.php(818): CodeIgniter\BaseModel->validateID('0', false)
+ 2 SYSTEMPATH\BaseModel.php(1191): CodeIgniter\BaseModel->validateID([...])
+ 3 APPPATH\Controllers\RegionesController.php(35): CodeIgniter\BaseModel->delete([...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\RegionesController->eliminar('0')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-24 04:27:56 --> CodeIgniter\Exceptions\InvalidArgumentException: Invalid primary key: '0' is not allowed.
+[Method: GET, Route: eliminar/0]
+in SYSTEMPATH\BaseModel.php on line 833.
+ 1 SYSTEMPATH\BaseModel.php(818): CodeIgniter\BaseModel->validateID('0', false)
+ 2 SYSTEMPATH\BaseModel.php(1191): CodeIgniter\BaseModel->validateID([...])
+ 3 APPPATH\Controllers\RegionesController.php(35): CodeIgniter\BaseModel->delete([...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\RegionesController->eliminar('0')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-24 04:28:45 --> CodeIgniter\Exceptions\InvalidArgumentException: Invalid primary key: '0' is not allowed.
+[Method: GET, Route: eliminar/0]
+in SYSTEMPATH\BaseModel.php on line 833.
+ 1 SYSTEMPATH\BaseModel.php(818): CodeIgniter\BaseModel->validateID('0', false)
+ 2 SYSTEMPATH\BaseModel.php(1191): CodeIgniter\BaseModel->validateID([...])
+ 3 APPPATH\Controllers\RegionesController.php(35): CodeIgniter\BaseModel->delete([...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\RegionesController->eliminar('0')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-24 18:02:40 --> ParseError: syntax error, unexpected identifier "RegionesModel"
+[Method: GET, Route: eliminar/12]
+in APPPATH\Controllers\RegionesController.php on line 40.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\proyectos2026\\app\\Controllers\\RegionesController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegionesController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegionesController')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\RegionesController')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('eliminar/12')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
